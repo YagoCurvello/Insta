@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510708842124",
+    "firebase_url": "https://instam-40d79.firebaseio.com",
+    "project_id": "instam-40d79",
+    "storage_bucket": "instam-40d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510708842124:android:b1fbd27aa2c062deb805a9",
+        "android_client_info": {
+          "package_name": "com.yagocurvello.instam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510708842124-a9l0empi9qs86k6m4688cgm1ljdl3lko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yagocurvello.instam",
+            "certificate_hash": "b33fcb6cc501a95c6d8c6b049a7b73904f184b1d"
+          }
+        },
+        {
+          "client_id": "510708842124-4cp135pkeg6571qultvfib0llftp2l5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOLsS4Iy-zOPaBVisYKordSv2lPzN1eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510708842124-4cp135pkeg6571qultvfib0llftp2l5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
